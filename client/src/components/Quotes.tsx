@@ -1,5 +1,4 @@
-// import React from 'react'
-// 
+
 export default function Quotes() {
     return (
         <div className="bg-slate-200 h-screen flex flex-col justify-center">
